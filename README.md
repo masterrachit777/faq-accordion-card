@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github](https://github.com/masterrachit777/faq-accordion-card)
-- Live Site: Not deployed!
+- Live Site: [Netlify](https://competent-jennings-81ac66.netlify.app/)
 
 ## My process
 
