@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github](https://github.com/masterrachit777/stats-preview-card/)
-- Live Site URL: [Visit here.](https://your-live-site-url.com)
+- Solution URL: [github](https://github.com/masterrachit777/faq-accordion-card)
+- Live Site: Not deployed!
 
 ## My process
 
